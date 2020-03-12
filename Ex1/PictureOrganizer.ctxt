@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.target=PictureOrganizer
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ PictureOrganizer\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=PictureOrganizer()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ PictureOrganizer\r\n
+comment10.params=
+comment10.target=void\ previous()
+comment2.params=folderName
+comment2.target=void\ readLibrary(java.lang.String)
+comment3.params=picture
+comment3.target=void\ addPicture(Picture)
+comment4.params=
+comment4.target=int\ getNumberOfPictures()
+comment4.text=\r\n\ Return\ the\ number\ of\ tracks\ in\ the\ collection.\r\n\ @return\ The\ number\ of\ tracks\ in\ the\ collection.\r\n
+comment5.params=
+comment5.target=void\ showFirstPicture()
+comment6.params=index
+comment6.target=boolean\ indexValid(int)
+comment6.text=\r\n\ Determine\ whether\ the\ given\ index\ is\ valid\ for\ the\ collection.\r\n\ Print\ an\ error\ message\ if\ it\ is\ not.\r\n\ @param\ index\ The\ index\ to\ be\ checked.\r\n\ @return\ true\ if\ the\ index\ is\ valid,\ false\ otherwise.\r\n
+comment7.params=index
+comment7.target=void\ showPicture(int)
+comment8.params=
+comment8.target=void\ lectureAleatoire()
+comment9.params=
+comment9.target=void\ next()
+numComments=11
