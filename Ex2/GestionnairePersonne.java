@@ -39,7 +39,7 @@ public class GestionnairePersonne
         // A développer
     }
     
-    public ArrayList chargerPersonnes(String textePersonnes){
+    public ArrayList chargerPersonnes(String donnees){
         // A développer
         return null;
     }
